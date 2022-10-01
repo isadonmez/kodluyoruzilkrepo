@@ -21,6 +21,5 @@ git clone https://github.com/isadonmez/kodluyoruzilkrepo.git
 Proje gizli ise birlikte çalışılabilecek kişiler buradan düzenlenir. Pull request ler buradan kontrol edilir
 
 
-#Licence
-
+# Licence
 MIT
