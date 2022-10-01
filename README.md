@@ -23,3 +23,5 @@ Proje gizli ise birlikte çalışılabilecek kişiler buradan düzenlenir. Pull 
 
 # Licence
 MIT
+
+www.patika.dev
