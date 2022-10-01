@@ -11,7 +11,6 @@ git clone https://github.com/isadonmez/kodluyoruzilkrepo.git
 
 # Usage
 
-cd kodluyoruzilkrepo
 1) masaüstü git bash
 2) cd kodluyoruzilkrepo
 3) code . (visual studio çalıştırılır ve proje üzerinde değişiklere başlanır.)
@@ -23,4 +22,5 @@ Proje gizli ise birlikte çalışılabilecek kişiler buradan düzenlenir. Pull 
 
 
 #Licence
+
 MIT
